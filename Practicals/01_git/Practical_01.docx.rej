@@ -1,0 +1,9 @@
+diff a/Practicals/01_git/Practical_01.docx b/Practicals/01_git/Practical_01.docx	(rejected hunks)
+@@ -27,7 +27,6 @@
+ Practical examples:
+  Update changes from the upstream
+  Teacher to fill in the lines below, commit and push the changes
+-testing
+ Number of students present: 30	
+ Weather outside: its dark, no idea
+  Students pull the changes

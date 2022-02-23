@@ -1,0 +1,14 @@
+diff a/Practicals/02_python_intro/python_intro.ipynb b/Practicals/02_python_intro/python_intro.ipynb	(rejected hunks)
+@@ -83,9 +83,9 @@
+    },
+    "outputs": [],
+    "source": [
+-    "# function 'type' return data type of a variable\n",
+-    "\n",
+-    "# TODO: use 'type' to investigate basic data types"
++    "# function type return data type of a variable\n",
++    "type(\"Hello\")\n",
++    "type(1)"
+    ]
+   },
+   {
